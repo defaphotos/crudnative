@@ -1,0 +1,25 @@
+{
+  "cliente": [
+    {
+      "nombre": "Felipe Fuenzalida",
+      "telefono": "222222222",
+      "correo": "Pipefuenza@gmail.com",
+      "empresa": "Wachupe spa",
+      "id": 2
+    },
+    {
+      "nombre": "Daniel",
+      "telefono": "933993898",
+      "correo": "defaphotos@gmail.com",
+      "empresa": "Nectia",
+      "id": 3
+    },
+    {
+      "nombre": "Sergio",
+      "telefono": "123",
+      "correo": "Dsad",
+      "empresa": "Hgfds",
+      "id": 4
+    }
+  ]
+}
